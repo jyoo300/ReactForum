@@ -1,0 +1,44 @@
+//stores the posts and comments of the react_forum app
+
+{
+  "posts": [
+    {
+      "name": "FirstUser101",
+      "title": "PirateIpsum",
+      "body": "Prow scuttle parrel provost Sail ho shrouds spirits boom mizzenmast yardarm. Pinnace holystone mizzenmast quarter crow's nest nipperkin grog yardarm hempen halter furl. Swab barque interloper chantey doubloon starboard grog black jack gangway rutters.",
+      "id": 3
+    },
+    {
+      "name": "CupcakeLover19",
+      "title": "CupcakeIpsum",
+      "body": "Carrot cake pastry liquorice sweet. Topping pudding cheesecake gingerbread. Carrot cake lemon drops brownie jelly ice cream brownie. Jelly beans danish cake soufflé chocolate bar croissant tiramisu. Cookie gingerbread powder oat cake. Cake liquorice carrot cake sesame snaps. Bonbon liquorice gummies fruitcake oat cake. Danish gingerbread dessert tootsie roll brownie. Sugar plum cookie soufflé marshmallow pastry biscuit powder. Marzipan candy canes lemon drops sugar plum liquorice chocolate cake fruitcake wafer carrot cake.",
+      "id": 13
+    }
+  ],
+  "comments": [
+    {
+      "name": "PirateUser23",
+      "body": "Deadlights jack lad schooner scallywag dance the hempen jig carouser broadside cable strike colors. Bring a spring upon her cable holystone blow the man down spanker Shiver me timbers to go on account lookout wherry doubloon chase. Belay yo-ho-ho keelhaul squiffy black spot yardarm spyglass sheet transom heave to.",
+      "postId": "3",
+      "id": 2
+    },
+    {
+      "name": "PirateUser64",
+      "body": "Trysail Sail ho Corsair red ensign hulk smartly boom jib rum gangway. Case shot Shiver me timbers gangplank crack Jennys tea cup ballast Blimey lee snow crow's nest rutters. Fluke jib scourge of the seven seas boatswain schooner gaff booty Jack Tar transom spirits.",
+      "postId": "3",
+      "id": 3
+    },
+    {
+      "name": "Sprinkles234",
+      "body": "Chocolate chocolate carrot cake dragée jelly brownie. Jelly-o marshmallow sweet biscuit. Cupcake sweet roll sweet gingerbread chupa chups chupa chups apple pie liquorice dragée. Donut candy canes wafer icing. Tootsie roll sweet lollipop chocolate apple pie jelly-o. Dessert halvah oat cake jelly. Fruitcake pastry candy canes toffee.",
+      "postId": "13",
+      "id": 5
+    },
+    {
+      "name": "SweetCakes86",
+      "body": "Brownie cake lollipop cupcake. Halvah pudding chocolate cake pudding lemon drops jelly. Cheesecake tootsie roll tiramisu oat cake liquorice candy soufflé gummi bears. Jujubes powder sweet. Sweet soufflé danish topping donut. Candy canes sweet roll candy lollipop pudding chupa chups.",
+      "postId": "13",
+      "id": 6
+    }
+  ]
+}
